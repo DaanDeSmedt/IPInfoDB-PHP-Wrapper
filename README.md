@@ -20,7 +20,7 @@ Return JSON response format:
 {
 	"statusCode" : "OK",
 	"statusMessage" : "",
-	"ipAddress" : "194.78.226.199",
+	"ipAddress" : "192.78.226.199",
 	"countryCode" : "BE",
 	"countryName" : "Belgium",
 	"regionName" : "Brussels Hoofdstedelijk Gewest",
@@ -42,9 +42,9 @@ Example json response:
 {
   "statusCode" : "OK",
   "statusMessage" : "",
-  "ipAddress" : "81.149.15.65",
-  "countryCode" : "GB",
-  "countryName" : "UNITED KINGDOM"
+  "ipAddress" : "192.78.226.199",
+  "countryCode" : "BE",
+  "countryName" : "Belgium",
 }
 ```
 
