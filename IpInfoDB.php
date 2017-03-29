@@ -10,8 +10,6 @@
 	*/
 	class IpInfoDB {
 		
-		// v3/ip-city/?key=1d95c9d287292070a31516ab176fecf04335ba209d40c45fa3e605e06e4ce210&ip=194.78.226.199&format=json
-		
 		/**
 		* @const string API url
 		*/
@@ -49,7 +47,7 @@
 		
 		
 		/**
-		* Get IP GEO by country precision		*
+		* Get IP GEO by country precision
 		*
 		* @param string $ip - IP address
 		
@@ -62,7 +60,7 @@
 		
 		
 		/**
-		* Get IP GEO by city precision		*
+		* Get IP GEO by city precision
 		*
 		* @param string $ip - IP address
 		
