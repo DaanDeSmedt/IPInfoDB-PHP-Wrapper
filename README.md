@@ -1,4 +1,4 @@
-IP User Location
+IPInfoDB PHP wrapper
 =======
 
 Basic PHP wrapper for the [IPInfoDB Geolocation API] (http://ipinfodb.com/)
@@ -18,17 +18,17 @@ Return JSON response format:
 
 ```
 {
-  "statusCode" : "OK",
-  "statusMessage" : "",
-  "ipAddress" : "81.149.15.65",
-  "countryCode" : "GB",
-  "countryName" : "UNITED KINGDOM",
-  "regionName" : "ENGLAND",
-  "cityName" : "SALISBURY",
-  "zipCode" : "SP1 1TP",
-  "latitude" : "51.0693",
-  "longitude" : "-1.79569",
-  "timeZone" : "+01:00"
+	"statusCode" : "OK",
+	"statusMessage" : "",
+	"ipAddress" : "194.78.226.199",
+	"countryCode" : "BE",
+	"countryName" : "Belgium",
+	"regionName" : "Brussels Hoofdstedelijk Gewest",
+	"cityName" : "Brussels",
+	"zipCode" : "1210",
+	"latitude" : "50.8504",
+	"longitude" : "4.34878",
+	"timeZone" : "+01:00"
 }
 ```
 
