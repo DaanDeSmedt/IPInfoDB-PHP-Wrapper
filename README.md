@@ -58,8 +58,9 @@ $ipInfo = new IpInfoDB(APIKEY, 'format');
 $location = json_decode($ipInfo->getCity('ip'));
 $location = json_decode($ipInfo->getCountry('ip'));
 var_dump($location);
+```
 
 #### Formats
-`json`
+`raw`
 `xml`
 `json`
