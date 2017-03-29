@@ -50,7 +50,7 @@
 		* Get IP GEO by country precision
 		*
 		* @param string $ip - IP address
-		
+		*
 		* @return string/false - data or false
 		*
 		*/
@@ -63,7 +63,7 @@
 		* Get IP GEO by city precision
 		*
 		* @param string $ip - IP address
-		
+		*
 		* @return string/false - data or false
 		*
 		*/
